@@ -306,6 +306,15 @@ a {
     gap: 30px;
 }
 
+.quick-links-wrap {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 5% 60px;
+}
+
 .widget {
     border-radius: 12px;
     padding: 25px;

@@ -121,6 +121,7 @@ img { max-width: 100%; }
     /* --- Layout / Grid --- */
     .layout-container { padding: 24px 5%; gap: 24px; }
     .grid-container { grid-template-columns: 1fr; }
+    .quick-links-wrap { padding: 12px 5% 40px; gap: 18px; grid-template-columns: 1fr; }
 
     /* --- Fade slider (about page) --- */
     .fade-slider { height: 220px; }
